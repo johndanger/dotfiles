@@ -6,7 +6,7 @@
 
 
 [misc]
-disable = ["toolbx","shell","claude_code","chezmoi"]
+disable = ["toolbx","shell","claude_code","chezmoi","firmware"]
 
 # On Unix systems, Topgrade should not be run as root, it
 # will run commands with sudo or equivalent where needed.
